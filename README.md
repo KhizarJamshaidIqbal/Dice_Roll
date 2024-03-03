@@ -1,4 +1,4 @@
-# dice_roll
+# Dice Roll App
 
 
 https://github.com/KhizarJamshaidIqbal/Dice_Roll/assets/112169672/7e3c48c4-4810-49a4-8738-e919bd717aa9
